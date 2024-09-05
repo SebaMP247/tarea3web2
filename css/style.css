@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(197, 196, 255);
+}
+.cabeza{
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+    position: absolute;
+    top: 99px;
+    left: 700px;
+    background-color: white;
+    
+}
+.cuerpo{
+    border-style: solid;
+    border-color: black;
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    position: absolute;
+    top: 250px;
+    left: 690px;
+    background-color: white;
+}
+
+.partebaja{
+    border-style: solid;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 160px;
+    position: absolute;
+    top: 430px;
+    left: 660px;
+    background-color: white;
+}
+.boton1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 30px;
+    left: 75px;
+    background-color: black;
+}
+.boton2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 80px;
+    left: 75px;
+    background-color: black;
+}
+.boton3{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 130px;
+    left: 75px;
+    background-color: black;
+}
+.ojo1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background-color: black;
+
+}
+.ojo2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 40px;
+    left: 90px;
+    background-color: black;
+}
+.boca{
+    width: 70px;
+    height: 10px;
+    border-radius: 20px;
+    position: absolute;
+    top: 100px;
+    left: 40px;
+    background-color: orangered;
+}
+.mano1{
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background-color: chocolate;
+    border-radius: 8px;
+    transform: rotate(30deg);
+    top: 260px;
+    left: 510px;
+}
+.mano2{
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background-color: chocolate;
+    border-radius: 8px;
+    transform: rotate(150deg);
+    top: 260px;
+    left: 858px;
+}
+.sombrero1{
+    width: 200px;
+    background-color: blue;
+    height: 30px;
+    border-radius: 20px;
+    position: absolute;
+    top: 90px;
+    left: 680px;
+    z-index: 10;
+}
+.sombrero2{
+    position: absolute;
+    width: 110px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 30px;
+    left: 725px;
+    top: 15px;
+}
+.nariz1{
+    position: absolute;
+    width: 35px;
+    height: 10px;
+    background-color: orangered;
+    top: 70px;
+    left: 70px;
+    transform: rotate(30deg);
+}
+.nariz2{
+    position: absolute;
+    width: 28px;
+    height: 8px;
+    background-color: orangered;
+    top: 80px;
+    left: 70px;
+}
+.nariz3{
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    background-color: orangered;
+    top: 70px;
+    left: 70px;
+}
+.nombre{
+    position: absolute;
+    border-radius: 5px;
+    height: 40px;
+    background-color: cadetblue;
+    top: 100px;
+    left: 20px;
+    font-size: 18px;
+}
+.titulo{
+    position: absolute;
+    border-radius: 5px;
+    height: 40px;
+    background-color: cadetblue;
+    top: 70px;
+    left: 20px;
+    font-size: 18px;
+}
